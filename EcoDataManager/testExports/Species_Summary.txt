@@ -1,0 +1,8 @@
+Summary: Species (Filtered)
+----------------------------
+Category: Bird | Count: 190
+Category: Insect | Count: 2
+Category: Plant | Count: 7
+Category: Mammal | Count: 298
+Category: Reptile | Count: 2
+Category: Amphibian | Count: 1

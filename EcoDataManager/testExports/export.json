@@ -1,0 +1,92 @@
+[
+  {
+    "SpeciesId": 20,
+    "Name": "White Oak",
+    "Category": "Plant",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 120,
+    "Name": "Eastern Bluebird",
+    "Category": "Bird",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 200,
+    "Name": "Eastern Screech Owl",
+    "Category": "Bird",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 201,
+    "Name": "Eastern Bluebird",
+    "Category": "Bird",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 202,
+    "Name": "Tufted Titmouse",
+    "Category": "Bird",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 203,
+    "Name": "Eastern Gray Squirrel",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 204,
+    "Name": "Eastern Cottontail",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 205,
+    "Name": "American Black Bear",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 206,
+    "Name": "Gray Fox",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 207,
+    "Name": "Eastern Coyote",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 208,
+    "Name": "Common Raccoon",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 209,
+    "Name": "Eastern Chipmunk",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 220,
+    "Name": "White-tailed Deer",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 320,
+    "Name": "Red Fox",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  },
+  {
+    "SpeciesId": 420,
+    "Name": "Eastern Cottontail",
+    "Category": "Mammal",
+    "ConservationStatus": "Least Concern"
+  }
+]
