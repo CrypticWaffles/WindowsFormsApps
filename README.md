@@ -1,2 +1,3 @@
 # WindowsFormsApps
-Windows forms app assignments from various coding classes
+Windows Forms app assignments from various coding classes
+Each Branch is a different class
