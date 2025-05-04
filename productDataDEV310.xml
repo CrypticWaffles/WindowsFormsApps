@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<XMLdataSet xmlns="http://tempuri.org/XMLdataSet.xsd">
+	<Product>
+		<Name>Banana</Name>
+		<Description>a yellow fruit</Description>
+		<Price>12.33</Price>
+		<InventoryAmount>1000</InventoryAmount>
+	</Product>
+	<Product>
+		<Name>Apple</Name>
+		<Description>it makes apple pie</Description>
+		<Price>13</Price>
+		<InventoryAmount>200</InventoryAmount>
+	</Product>
+	<Product>
+		<Name>Mango</Name>
+		<Description>from India</Description>
+		<Price>2.33</Price>
+		<InventoryAmount>300</InventoryAmount>
+	</Product>
+	<Product>
+		<Name>Pineapple</Name>
+		<Description>from Hawaii</Description>
+		<Price>12.33</Price>
+		<InventoryAmount>50</InventoryAmount>
+	</Product>
+</XMLdataSet>
