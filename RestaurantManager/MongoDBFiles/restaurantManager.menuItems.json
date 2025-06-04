@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "664c3c2a0f8b3c3c3c3c3c3c"
+  },
+  "name": "Cheese Pizza",
+  "description": "A classic cheese pizza with mozzarella and tomato sauce.",
+  "price": 5.99,
+  "category": "Main Course"
+},
+{
+  "_id": {
+    "$oid": "664c3c2a0f8b3c3c3c3c3c3d"
+  },
+  "name": "Pepperoni Pizza",
+  "description": "A delicious pepperoni pizza with mozzarella and pepperoni slices.",
+  "price": 6.99,
+  "category": "Main Course"
+},
+{
+  "_id": {
+    "$oid": "664c3c2a0f8b3c3c3c3c3c3e"
+  },
+  "name": "Caesar Salad",
+  "description": "Fresh romaine lettuce with Caesar dressing, croutons, and parmesan cheese.",
+  "price": 4.5,
+  "category": "Appetizer"
+},
+{
+  "_id": {
+    "$oid": "664c3c2a0f8b3c3c3c3c3c3f"
+  },
+  "name": "Garlic Bread",
+  "description": "Toasted bread with garlic butter and herbs.",
+  "price": 3,
+  "category": "Appetizer"
+},
+{
+  "_id": {
+    "$oid": "664c3c2a0f8b3c3c3c3c3c40"
+  },
+  "name": "Soda",
+  "description": "Assorted soft drinks.",
+  "price": 1.5,
+  "category": "Beverage"
+}]

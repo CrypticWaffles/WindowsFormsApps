@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "682e59c7dd1bdda800dad634"
+  },
+  "userID": "682d20edebfac6df83340be9",
+  "items": [
+    {
+      "itemName": "Cheese Pizza",
+      "quantity": 2,
+      "unitPrice": {
+        "$numberDecimal": "5.99"
+      }
+    }
+  ],
+  "orderDate": {
+    "$date": "2025-05-21T22:55:03.891Z"
+  },
+  "status": "Cancelled",
+  "totalAmount": {
+    "$numberDecimal": "11.98"
+  }
+},
+{
+  "_id": {
+    "$oid": "682e5b916d23e4f75370ef15"
+  },
+  "userID": "682be5386c0fcf2f99dd79da",
+  "items": [
+    {
+      "itemName": "Cheese Pizza",
+      "quantity": 14,
+      "unitPrice": {
+        "$numberDecimal": "5.99"
+      }
+    }
+  ],
+  "orderDate": {
+    "$date": "2025-05-21T23:02:41.961Z"
+  },
+  "status": "Served",
+  "totalAmount": {
+    "$numberDecimal": "83.86"
+  }
+},
+{
+  "_id": {
+    "$oid": "682e5c90e7209b3de143cd04"
+  },
+  "userID": "682d20edebfac6df83340be9",
+  "items": [
+    {
+      "itemName": "Cheese Pizza",
+      "quantity": 7,
+      "unitPrice": {
+        "$numberDecimal": "5.99"
+      }
+    },
+    {
+      "itemName": "Pepperoni Pizza",
+      "quantity": 2,
+      "unitPrice": {
+        "$numberDecimal": "6.99"
+      }
+    },
+    {
+      "itemName": "Caesar Salad",
+      "quantity": 1,
+      "unitPrice": {
+        "$numberDecimal": "4.50"
+      }
+    }
+  ],
+  "orderDate": {
+    "$date": "2025-05-21T23:06:56.625Z"
+  },
+  "status": "Served",
+  "totalAmount": {
+    "$numberDecimal": "60.41"
+  }
+},
+{
+  "_id": {
+    "$oid": "682e6c4b29623da6a2cba02a"
+  },
+  "userID": "682d20edebfac6df83340be9",
+  "items": [
+    {
+      "itemName": "Pepperoni Pizza",
+      "quantity": 1,
+      "unitPrice": {
+        "$numberDecimal": "6.99"
+      }
+    }
+  ],
+  "orderDate": {
+    "$date": "2025-05-22T00:14:03.129Z"
+  },
+  "status": "In Kitchen",
+  "totalAmount": {
+    "$numberDecimal": "6.99"
+  }
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "682d6a7db46bf623ed7d30e0"
+  },
+  "userID": "682d20edebfac6df83340be9",
+  "tableNumber": 2,
+  "reservationDate": {
+    "$date": "2025-05-22T05:53:52.000Z"
+  },
+  "numberOfPeople": 3
+},
+{
+  "_id": {
+    "$oid": "682e2ddeb17323224a0f03f7"
+  },
+  "userID": "682d20edebfac6df83340be9",
+  "tableNumber": 7,
+  "reservationDate": {
+    "$date": "2025-05-21T19:47:27.244Z"
+  },
+  "numberOfPeople": 12
+}]

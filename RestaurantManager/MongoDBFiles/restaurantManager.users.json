@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "682be5386c0fcf2f99dd79da"
+  },
+  "username": "test1",
+  "password": "password123",
+  "email": "test1@test.com",
+  "role": "staff"
+},
+{
+  "_id": {
+    "$oid": "682bea206c0fcf2f99dd79dd"
+  },
+  "username": "test2",
+  "password": "password123",
+  "email": "test2@test.com",
+  "role": "customer"
+},
+{
+  "_id": {
+    "$oid": "682bec32a01cb1ae00a1b32e"
+  },
+  "username": "test3",
+  "password": "pass123",
+  "email": "test3@test.com",
+  "role": "staff"
+},
+{
+  "_id": {
+    "$oid": "682d1dea4d55ba639e5883ea"
+  },
+  "username": "regtest1",
+  "password": "pass1234",
+  "email": "reg@test.com",
+  "role": ""
+},
+{
+  "_id": {
+    "$oid": "682d1e615e585eb6ce16b714"
+  },
+  "username": "regtest2",
+  "password": "pass2",
+  "email": "email@email.com",
+  "role": "staff"
+},
+{
+  "_id": {
+    "$oid": "682d20edebfac6df83340be9"
+  },
+  "username": "Admin",
+  "password": "password123",
+  "email": "admin@test.com",
+  "role": "staff"
+}]
